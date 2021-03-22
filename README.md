@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://https://damienwe.github.io/cv/)
 - GitHub [@your-username](https://github.com/damienwe)
-- Twitter [@your-twitter](https://twitter.com/Damien_Wev)
+- Twitter [https://twitter.com/Damien_Wev](https://twitter.com/Damien_Wev)
