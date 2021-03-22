@@ -68,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://https://damienwe.github.io/cv/)
-- GitHub [@your-username](https://github.com/damienwe)
+- Website [https://https://damienwe.github.io/cv/](https://https://damienwe.github.io/cv/)
+- GitHub [https://github.com/damienwe](https://github.com/damienwe)
 - Twitter [https://twitter.com/Damien_Wev](https://twitter.com/Damien_Wev)
