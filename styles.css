@@ -1,0 +1,113 @@
+body {
+  font-family: 'Mitr', sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+  width: 85%;
+}
+
+img {
+  float: left;
+  width: 400px;
+  height: 349px;
+  margin: 25px;
+}
+
+h1, h3, p, a {
+  text-decoration: none;
+  color: #333333;
+}
+
+button {
+  font-size: .75rem;
+  color: #fff;
+  background-color: #333333;
+  padding: 17px;
+  width: 200px;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 75%;
+}
+
+a:hover {
+  font-weight: 400;
+}
+
+.error_message {
+  display: flex;
+  flex-direction: row;
+  margin: 80px auto 0 auto;
+  width: 1000px;
+}
+
+.text{
+  width: 75%;
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.text p {
+  font-size: 1.25rem;
+  width: 65%;
+  font-weight: 200
+}
+
+footer {
+  font-weight: 100;
+  margin-top: 150px;
+  text-align: center;
+}
+
+@media (max-width: 990px) {
+  .error_message {
+    display: flex;
+    flex-direction: column;
+    margin: 15px auto 15px auto;
+    width: 500px;
+    align-items: center;
+  }
+
+  footer {
+  margin: auto;
+  margin-top: 30px;
+  width: 40%;
+  }
+
+  footer p, a {
+    font-size: .75rem;
+  }
+
+  img {
+    width: 300px;
+    height: 262px;
+    margin: 15px;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 2rem;
+    width: 85%;
+  }
+
+  .text {
+    margin: 0 auto 0 auto;
+    width: 50%;
+  }
+
+  .text p {
+    font-size: .75rem;
+    width: 65%;
+  }
+
+  button {
+    font-size: .5rem;
+    padding: 12px;
+    width: 150px;
+  }
+}
