@@ -38,12 +38,10 @@
 
 ![screenshot](/404notFoundScreenShot.JPG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This challenge was to recreate the given webpage on devchallenges.io, please click Demo above to see my webpage and then click Challenge to see the user story on the devchallenges.io website to which I have attempted to recreate.
+This was my first attempt at such a challenge after starting to learn HTML and CSS.
+I found that using the display: flex; CSS command allowed me to position the divs where I wanted them.  I used @media query to resize the elements for a smaller screen.
+I would appreciate any feedback on my code with suggestions for improvement or how to make my work easier or to comform to best practices.
 
 ### Built With
 
@@ -70,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com](https://https://damienwe.github.io/cv/)
+- GitHub [@your-username](https://github.com/damienwe)
+- Twitter [@your-twitter](https://twitter.com/Damien_Wev)
